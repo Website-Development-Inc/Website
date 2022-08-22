@@ -1,3 +1,10 @@
+<div align="center">
+
 # Test Webseite 1
+
+</div>
+
 ## Informationen
-- Test mit Html und CSS
+
+- Test mit HTML und CSS
+
